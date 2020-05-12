@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BepuUnity.Shared.Abstraction
+{
+	public class ISpringSettings
+	{
+		float Frequenty { get; }
+		float DampingRation { get; }
+	}
+}

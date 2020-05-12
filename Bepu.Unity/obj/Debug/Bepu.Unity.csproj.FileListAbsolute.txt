@@ -1,0 +1,9 @@
+C:\Users\Nick\Source\Repos\UnityBepu\Bepu.Unity\obj\Debug\Bepu.Unity.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\UnityBepu\Bepu.Unity\bin\Debug\Bepu.Unity.dll
+C:\Users\Nick\source\repos\UnityBepu\Bepu.Unity\bin\Debug\Bepu.Unity.pdb
+C:\Users\Nick\source\repos\UnityBepu\Bepu.Unity\bin\Debug\UnityEngine.dll
+C:\Users\Nick\source\repos\UnityBepu\Bepu.Unity\obj\Debug\Bepu.Unity.csproj.CopyComplete
+C:\Users\Nick\source\repos\UnityBepu\Bepu.Unity\obj\Debug\Bepu.Unity.dll
+C:\Users\Nick\source\repos\UnityBepu\Bepu.Unity\obj\Debug\Bepu.Unity.pdb
+C:\Users\Nick\source\repos\UnityBepu\Bepu.Unity\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Nick\source\repos\UnityBepu\Bepu.Unity\obj\Debug\Bepu.Unity.csprojAssemblyReference.cache

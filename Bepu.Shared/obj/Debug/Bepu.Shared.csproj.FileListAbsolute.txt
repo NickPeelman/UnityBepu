@@ -1,0 +1,6 @@
+C:\Users\Nick\Source\Repos\UnityBepu\Bepu.Shared\bin\Debug\Bepu.Shared.dll
+C:\Users\Nick\Source\Repos\UnityBepu\Bepu.Shared\bin\Debug\Bepu.Shared.pdb
+C:\Users\Nick\Source\Repos\UnityBepu\Bepu.Shared\obj\Debug\Bepu.Shared.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\UnityBepu\Bepu.Shared\obj\Debug\Bepu.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\UnityBepu\Bepu.Shared\obj\Debug\Bepu.Shared.dll
+C:\Users\Nick\Source\Repos\UnityBepu\Bepu.Shared\obj\Debug\Bepu.Shared.pdb

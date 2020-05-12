@@ -1,0 +1,12 @@
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\bin\Debug\netcoreapp3.1\BepuClient.exe
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\bin\Debug\netcoreapp3.1\BepuClient.deps.json
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\bin\Debug\netcoreapp3.1\BepuClient.runtimeconfig.json
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\bin\Debug\netcoreapp3.1\BepuClient.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\bin\Debug\netcoreapp3.1\BepuClient.dll
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\bin\Debug\netcoreapp3.1\BepuClient.pdb
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\obj\Debug\netcoreapp3.1\BepuClient.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\obj\Debug\netcoreapp3.1\BepuClient.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\obj\Debug\netcoreapp3.1\BepuClient.AssemblyInfo.cs
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\obj\Debug\netcoreapp3.1\BepuClient.dll
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\obj\Debug\netcoreapp3.1\BepuClient.pdb
+C:\Users\Nick\source\repos\UnityBepu\BepuClient\obj\Debug\netcoreapp3.1\BepuClient.genruntimeconfig.cache
